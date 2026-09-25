@@ -1,59 +1,42 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
+excerpt: "Education, research experience, and curriculum vitae of Felipe Cordera."
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<p class="profile-actions"><a class="btn btn--primary" href="{{ '/files/Felipe_Cordera_CV.pdf' | relative_url }}">Download CV (PDF)</a></p>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Massachusetts Institute of Technology**<br>
+PhD in Operations Research, expected May 2027.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Universidad de Chile**<br>
+MSc in Engineering — Water Resources and Environment, 2020.<br>
+Professional Degree in Civil Engineering — Water Resources and Environment, 2020. Ranked first in the graduating class.<br>
+BSc in Engineering — Civil Engineering, 2016.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Research experience
+
+- **MIT Operations Research Center** — Research Assistant, 2022–present. Supervisors: Alexandre Jacquillat and Cynthia Barnhart.
+- **Amazon Robotics** — Research Scientist II Intern, May–August 2025. Supervisor: Michael Caldara.
+- **Universidad de Chile** — Research Assistant, Resilient Planning of Low-Carbon Power Systems, 2020–2022. Supervisors: Rodrigo Moreno and Fernando Ordóñez.
+- **Institute for Complex Engineering Systems, Universidad de Chile** — Project Engineer, Power-System Reliability and Transmission Planning, 2020–2022. Supervisor: Rodrigo Moreno.
+- **Cornell University** — Visiting Student, Patrick Reed’s Research Group, May–July 2018.
+
+## Selected honors
+
+- ENRE Student Best Paper Award, INFORMS Annual Meeting, 2024.
+- Best Graduate Engineer of the 2020 Class, Chilean Association of Engineers, 2021.
+- National Master’s Scholarship, CONICYT, Chile, 2017.
+- Pablo Pérez Zañartu Scholarship, San Carlos de Maipo Foundation, 2016. Awarded to the top incoming student in Civil Engineering, Water Resources and Environment, at Universidad de Chile.
+
+## Academic service
+
+- Co-organizer, MIT Operations Research Center IAP Seminar, “GenAI Meets OR,” January 2026.
+- Conference Volunteer, INFORMS Transportation Science and Logistics Society Conference, MIT, July 2026.
+
+See the [full CV]({{ '/files/Felipe_Cordera_CV.pdf' | relative_url }}) for publications, presentations, applied projects, and additional awards.
