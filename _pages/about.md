@@ -22,11 +22,11 @@ My research asks how to represent complex downstream effects and uncertain or un
 
 **Decisions with imperfect information.** My work examines how uncertainty and missing information affect operational and planning decisions. A central question is which information matters for decision quality, and how it can be represented or inferred within a tractable optimization framework.
 
-**Learning from decisions.** Looking ahead, I am interested in what observed decisions reveal about the objectives of the people or agents making them, and how that knowledge can inform system-level optimization. I aim to understand how much needs to be learned to support effective decisions.
+**Learning from decisions.** Looking ahead, I am interested in what observed decisions reveal about the objectives of the agents making them, and how that knowledge can inform system-level optimization. I aim to understand how much needs to be learned to support effective decisions.
 
 ## Background
 
-Before MIT, I studied civil engineering with a concentration in environmental and water resources at Universidad de Chile, where I worked on stochastic optimization in power systems and water resources.
+Before MIT, I studied civil engineering with a concentration in environmental and water resources at Universidad de Chile, where I worked on stochastic optimization in power systems and water resources under the guidance of Marcelo Olivares, Fernando Ordóñez, and Rodrigo Moreno.
 
 During my PhD at MIT, I spent summer 2025 as a Research Scientist II Intern at Amazon Robotics. I expect to complete my PhD in May 2027.
 
