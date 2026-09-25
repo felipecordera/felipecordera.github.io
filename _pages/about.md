@@ -26,7 +26,7 @@ My research asks how to represent complex downstream effects and uncertain or un
 
 ## Background
 
-Before MIT, I studied civil engineering with a concentration in environmental and water resources at Universidad de Chile, where I worked on stochastic optimization in power systems and water resources under the guidance of Marcelo Olivares, Fernando Ordóñez, and Rodrigo Moreno.
+Before MIT, I studied civil engineering with a concentration in water resources and environment at Universidad de Chile, where I worked on stochastic optimization in power systems and water resources under the guidance of Marcelo Olivares, Fernando Ordóñez, and Rodrigo Moreno.
 
 During my PhD at MIT, I spent summer 2025 as a Research Scientist II Intern at Amazon Robotics. I expect to complete my PhD in May 2027.
 
