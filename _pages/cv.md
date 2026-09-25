@@ -15,8 +15,8 @@ redirect_from:
 PhD in Operations Research, expected May 2027.
 
 **Universidad de Chile**<br>
-MSc in Engineering — Water Resources and Environment, 2020.<br>
-Professional Degree in Civil Engineering — Water Resources and Environment, 2020. Ranked first in the graduating class.<br>
+MSc in Engineering — Environmental and Water Resources, 2020.<br>
+Professional Degree in Civil Engineering — Environmental and Water Resources, 2020. Ranked first in the graduating class.<br>
 BSc in Engineering — Civil Engineering, 2016.
 
 ## Research experience
@@ -32,7 +32,7 @@ BSc in Engineering — Civil Engineering, 2016.
 - ENRE Student Best Paper Award, INFORMS Annual Meeting, 2024.
 - Best Graduate Engineer of the 2020 Class, Chilean Association of Engineers, 2021.
 - National Master’s Scholarship, CONICYT, Chile, 2017.
-- Pablo Pérez Zañartu Scholarship, San Carlos de Maipo Foundation, 2016. Awarded to the top incoming student in Civil Engineering, Water Resources and Environment, at Universidad de Chile.
+- Pablo Pérez Zañartu Scholarship, San Carlos de Maipo Foundation, 2016. Awarded to the top incoming student in Civil Engineering, Environmental and Water Resources, at Universidad de Chile.
 
 ## Academic service
 
