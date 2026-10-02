@@ -11,6 +11,13 @@ I develop optimization models and solution methods that preserve the features th
 
 ## Publications
 
+### Optimizing Advanced Air Mobility Operations in a Corridor Network
+
+**Felipe Cordera**, Alexandre Jacquillat, and Spencer McDonald.<br>
+*INFORMS Optimization Society Conference Refereed Proceedings, 2026. Major revision at INFORMS Journal on Optimization.*
+
+We jointly optimize vehicle dispatch and trajectories through capacity-constrained air corridors. A time–space–lane formulation and column-generation algorithm support large-scale operations and quantify the benefits of dynamically reconfiguring corridor directionality.
+
 ### Cost-Benefit Analysis of Transmission Network Reliability Standards: An Inverse Optimal Power Flow Approach
 
 F. Sepúlveda, D. Alvarado, **F. Cordera**, E. Esperguel, G. Strbac, and R. Moreno.<br>
@@ -32,13 +39,6 @@ S. E. Null, M. A. Olivares, **F. Cordera**, and J. R. Lund.<br>
 *Water Resources Research*, 57(10), e2020WR028296, 2021.
 
 ## Working Papers & Under Review
-
-### Optimizing Advanced Air Mobility Operations in a Corridor Network
-
-**Felipe Cordera**, Alexandre Jacquillat, and Spencer McDonald.<br>
-*INFORMS Optimization Society Conference Refereed Proceedings, 2026. Major revision at INFORMS Journal on Optimization.*
-
-We jointly optimize vehicle dispatch and trajectories through capacity-constrained air corridors. A time–space–lane formulation and column-generation algorithm support large-scale operations and quantify the benefits of dynamically reconfiguring corridor directionality.
 
 ### Order Picking in Large-scale Robotic Mobile Fulfillment Systems
 
