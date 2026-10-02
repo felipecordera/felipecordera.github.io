@@ -31,9 +31,3 @@ Before MIT, I studied civil engineering with a concentration in environmental an
 During my PhD at MIT, I spent summer 2025 as a Research Scientist II Intern at Amazon Robotics. I expect to complete my PhD in May 2027.
 
 My work on unit commitment under correlated renewable uncertainty received the **2024 ENRE Student Best Paper Award**.
-
-## Contact
-
-[fcordera@mit.edu](mailto:fcordera@mit.edu)<br>
-Operations Research Center, Massachusetts Institute of Technology<br>
-Cambridge, Massachusetts
