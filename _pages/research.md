@@ -33,13 +33,6 @@ S. E. Null, M. A. Olivares, **F. Cordera**, and J. R. Lund.<br>
 
 ## Working Papers & Under Review
 
-### Order Picking in Large-scale Robotic Mobile Fulfillment Systems
-
-Cynthia Barnhart, Michael Caldara, **Felipe Cordera**, Opu Islam, Alexandre Jacquillat, and Alexandria Schmid.<br>
-*Working paper.*
-
-We study the assignment of customer orders and inventory pods to picking stations. We show theoretically that larger systems create richer opportunities to coordinate orders and inventory, increasing picking synergies. To realize these benefits at scale, we develop valid inequalities and variable-fixing heuristics that substantially reduce problem dimensionality. Simulation evaluates the downstream robot movements induced by the assignments.
-
 ### Optimizing Advanced Air Mobility Operations in a Corridor Network
 
 **Felipe Cordera**, Alexandre Jacquillat, and Spencer McDonald.<br>
@@ -47,15 +40,19 @@ We study the assignment of customer orders and inventory pods to picking station
 
 We jointly optimize vehicle dispatch and trajectories through capacity-constrained air corridors. A time–space–lane formulation and column-generation algorithm support large-scale operations and quantify the benefits of dynamically reconfiguring corridor directionality.
 
-## Ongoing Research
+### Order Picking in Large-scale Robotic Mobile Fulfillment Systems
 
-### Passenger-centric airport gate assignment
+Cynthia Barnhart, Michael Caldara, **Felipe Cordera**, Opu Islam, Alexandre Jacquillat, and Alexandria Schmid.<br>
+*Working paper.*
 
-I develop tractable representations of connecting-passenger impacts in gate assignment. This work exploits the structure of connection flows to approximate costs associated with walking distances and tight connection times, enabling optimization at realistic airport scales.
+We study the assignment of customer orders and inventory pods to picking stations. We show theoretically that larger systems create richer opportunities to coordinate orders and inventory, increasing picking synergies. To realize these benefits at scale, we develop valid inequalities and variable-fixing heuristics that substantially reduce problem dimensionality. Simulation evaluates the downstream robot movements induced by the assignments.
 
-### Learning from downstream decisions
+### Airport Gate Assignment with Connecting-Passenger Impacts
 
-My future research examines how observed decisions can reveal the objectives of partially autonomous agents and inform system-level optimization. I am particularly interested in heterogeneous preferences, learning from repeated observations, and the interaction between operational decisions and the information available for future learning.
+Rohan Bosworth, **Felipe Cordera**, and Alexandre Jacquillat.<br>
+*Working paper.*
+
+We develop tractable representations of connecting-passenger impacts in gate assignment. This work exploits the structure of connection flows to approximate costs associated with walking distances and tight connection times, enabling optimization at realistic airport scales.
 
 ## Selected Presentations
 
