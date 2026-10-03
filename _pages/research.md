@@ -38,19 +38,17 @@ We develop a multistage stochastic unit commitment model with energy storage and
 S. E. Null, M. A. Olivares, **F. Cordera**, and J. R. Lund.<br>
 *Water Resources Research*, 57(10), e2020WR028296, 2021.
 
-## Working Papers & Under Review
+## Working Papers
 
 - ### Order Picking in Large-scale Robotic Mobile Fulfillment Systems
 
 Cynthia Barnhart, Michael Caldara, **Felipe Cordera**, Opu Islam, Alexandre Jacquillat, and Alexandria Schmid.<br>
-*Working paper.*
 
 We study the assignment of customer orders and inventory pods to picking stations. We show theoretically that larger systems create richer opportunities to coordinate orders and inventory, increasing picking synergies. To realize these benefits at scale, we develop valid inequalities and variable-fixing heuristics that substantially reduce problem dimensionality. Simulation evaluates the downstream robot movements induced by the assignments.
 
 - ### Airport Gate Assignment with Connecting-Passenger Impacts
 
 Rohan Bosworth, **Felipe Cordera**, and Alexandre Jacquillat.<br>
-*Working paper.*
 
 We develop tractable representations of connecting-passenger impacts in gate assignment. This work exploits the structure of connection flows to approximate costs associated with walking distances and tight connection times, enabling optimization at realistic airport scales.
 
