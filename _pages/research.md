@@ -23,7 +23,7 @@ F. Sepúlveda, D. Alvarado, **F. Cordera**, E. Esperguel, G. Strbac, and R. More
 
 - "Unit Commitment Problem with Energy Storage Under Correlated Renewables Uncertainty"<br>
 **F. Cordera**, R. Moreno, and F. Ordóñez.
-*Operations Research*, 71(6), 1960–1977, 2023.
+*Operations Research*, 71(6), 1960–1977, 2023.<br>
 **2024 ENRE Student Best Paper Award.**
 > We develop a multistage stochastic unit commitment model with energy storage and a decomposition method that captures temporal correlations in renewable generation. The approach evaluates the value of adaptive operational decisions under uncertainty in the Chilean power system.
 
