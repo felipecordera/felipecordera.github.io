@@ -14,7 +14,7 @@ I develop optimization models and solution methods that preserve the features th
 ### Optimizing Advanced Air Mobility Operations in a Corridor Network
 
 **Felipe Cordera**, Alexandre Jacquillat, and Spencer McDonald.<br>
-*INFORMS Optimization Society Conference Refereed Proceedings, 2026. Major revision at INFORMS Journal on Optimization.*
+*INFORMS Optimization Society Conference Refereed Proceedings, 2026 & Major revision at INFORMS Journal on Optimization.*
 
 We jointly optimize vehicle dispatch and trajectories through capacity-constrained air corridors. A time–space–lane formulation and column-generation algorithm support large-scale operations and quantify the benefits of dynamically reconfiguring corridor directionality.
 
