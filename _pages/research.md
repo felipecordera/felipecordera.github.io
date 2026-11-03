@@ -7,7 +7,7 @@ redirect_from:
   - /publications/
 ---
 
-I develop optimization models and solution methods that preserve the features that matter for decision quality while remaining tractable at realistic scale. My work combines integer and stochastic optimization, decomposition methods, and simulation.
+I develop optimization models and solution methods that preserve the features that matter for decision quality while remaining tractable at realistic scale. My work draws on integer and stochastic optimization, decomposition methods, and simulation.
 
 ## Publications
 
